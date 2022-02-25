@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\bin\Debug\net6.0\Reto-Listas.exe
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\bin\Debug\net6.0\Reto-Listas.deps.json
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\bin\Debug\net6.0\Reto-Listas.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\bin\Debug\net6.0\Reto-Listas.dll
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\bin\Debug\net6.0\Reto-Listas.pdb
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.dll
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\refint\Reto-Listas.dll
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.pdb
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\Reto-Listas.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Reto-Listas\Reto-Listas\obj\Debug\net6.0\ref\Reto-Listas.dll
